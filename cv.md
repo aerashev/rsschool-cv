@@ -42,3 +42,26 @@ class Solution {
     }
 }
 ```
+
+## Experience
+
+- 2019-2023 | [**Raiffeisenbank**](http://raif.ru)
+
+  System Analyst 
+
+- 2016-2019 | [**ELMA**](http://elma-bpm.ru)
+
+  System Analyst
+  
+## Education
+
+- 2010-2015 | Izhevsk State Technical University
+  
+  Applied Mathematics
+  
+## Languages
+
+- Russian (Native)
+- English (B1)
+
+
